@@ -1,0 +1,249 @@
+{
+  "RELIANCE": {
+    "calls": [
+      {
+        "timestamp": "2026-03-20T11:05:54.664346+05:30",
+        "timestamp_display": "20-Mar-2026 11:05 AM IST",
+        "signal": "SPECULATIVE",
+        "score": 42.7,
+        "price": 1427.2,
+        "fundamentals": {
+          "pe": 23.2103,
+          "roe": null,
+          "revenue_growth": 0.104,
+          "profit_margin": 0.0812,
+          "debt_to_equity": 35.651,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 1421.25,
+          "3_months": 1409.36,
+          "6_months": 1391.52,
+          "12_months": 1355.84
+        }
+      }
+    ]
+  },
+  "SWIGGY": {
+    "calls": [
+      {
+        "timestamp": "2026-03-20T11:15:09.300833+05:30",
+        "timestamp_display": "20-Mar-2026 11:15 AM IST",
+        "signal": "SELL / EXIT",
+        "score": 39.6,
+        "price": 289.55,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 285.93,
+          "3_months": 278.69,
+          "6_months": 267.83,
+          "12_months": 246.12
+        }
+      },
+      {
+        "timestamp": "2026-03-20T11:20:23.399545+05:30",
+        "timestamp_display": "20-Mar-2026 11:20 AM IST",
+        "signal": "SELL / EXIT",
+        "score": 39.6,
+        "price": 289.95,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 286.33,
+          "3_months": 279.08,
+          "6_months": 268.2,
+          "12_months": 246.46
+        }
+      },
+      {
+        "timestamp": "2026-03-20T11:26:10.873840+05:30",
+        "timestamp_display": "20-Mar-2026 11:26 AM IST",
+        "signal": "SELL / EXIT",
+        "score": 39.6,
+        "price": 290.35,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 286.72,
+          "3_months": 279.46,
+          "6_months": 268.57,
+          "12_months": 246.8
+        }
+      },
+      {
+        "timestamp": "2026-03-20T11:38:24.970255+05:30",
+        "timestamp_display": "20-Mar-2026 11:38 AM IST",
+        "signal": "SELL / EXIT",
+        "score": 39.6,
+        "price": 288.9,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 285.29,
+          "3_months": 278.07,
+          "6_months": 267.23,
+          "12_months": 245.56
+        }
+      },
+      {
+        "timestamp": "2026-03-20T11:53:45.928026+05:30",
+        "timestamp_display": "20-Mar-2026 11:53 AM IST",
+        "signal": "SELL / EXIT",
+        "score": 40.5,
+        "price": 286.75,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 285.56,
+          "3_months": 283.17,
+          "6_months": 279.58,
+          "12_months": 272.41
+        }
+      },
+      {
+        "timestamp": "2026-03-20T13:03:28.602896+05:30",
+        "timestamp_display": "20-Mar-2026 01:03 PM IST",
+        "signal": "SELL / EXIT",
+        "score": 42.4,
+        "price": 284.7,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 283.51,
+          "3_months": 281.14,
+          "6_months": 277.58,
+          "12_months": 270.47
+        }
+      },
+      {
+        "timestamp": "2026-03-20T13:26:02.986183+05:30",
+        "timestamp_display": "20-Mar-2026 01:26 PM IST",
+        "signal": "SELL / EXIT",
+        "score": 42.4,
+        "price": 284.9,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 283.71,
+          "3_months": 281.34,
+          "6_months": 277.78,
+          "12_months": 270.65
+        }
+      },
+      {
+        "timestamp": "2026-03-20T14:00:32.882489+05:30",
+        "timestamp_display": "20-Mar-2026 02:00 PM IST",
+        "signal": "SELL / EXIT",
+        "score": 40.1,
+        "price": 283.6,
+        "fundamentals": {
+          "pe": null,
+          "roe": null,
+          "revenue_growth": 0.54,
+          "profit_margin": -0.2104,
+          "debt_to_equity": 25.426,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 282.42,
+          "3_months": 280.06,
+          "6_months": 276.51,
+          "12_months": 269.42
+        }
+      }
+    ]
+  },
+  "SBIN": {
+    "calls": [
+      {
+        "timestamp": "2026-03-20T11:17:48.243053+05:30",
+        "timestamp_display": "20-Mar-2026 11:17 AM IST",
+        "signal": "SELL / EXIT",
+        "score": 50.6,
+        "price": 1074.6,
+        "fundamentals": {
+          "pe": 11.737,
+          "roe": null,
+          "revenue_growth": 0.145,
+          "profit_margin": 0.225,
+          "debt_to_equity": null,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 1079.08,
+          "3_months": 1088.03,
+          "6_months": 1101.46,
+          "12_months": 1128.33
+        }
+      }
+    ]
+  },
+  "ASHOKLEY": {
+    "calls": [
+      {
+        "timestamp": "2026-03-20T11:23:59.509878+05:30",
+        "timestamp_display": "20-Mar-2026 11:23 AM IST",
+        "signal": "WAIT TO BUY",
+        "score": 39.5,
+        "price": 169.26,
+        "fundamentals": {
+          "pe": 30.0657,
+          "roe": null,
+          "revenue_growth": 0.236,
+          "profit_margin": 0.0615,
+          "debt_to_equity": 327.886,
+          "current_ratio": null
+        },
+        "targets": {
+          "1_month": 167.14,
+          "3_months": 162.91,
+          "6_months": 156.57,
+          "12_months": 143.87
+        }
+      }
+    ]
+  }
+}
